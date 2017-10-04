@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/ezekeal/puppy-pics#readme",
   "dependencies": {
-    "asciify-image": "0.0.7",
+    "asciify-image": "0.0.8",
     "nets": "^3.2.0"
   },
   "bin": "./bin/index.js"
